@@ -5,7 +5,7 @@ As the TAM (Twentieth Anniversary Macintosh) grows older, replacement parts for 
 The goal of this document is to provide information on the TAM's umbilical cord pinout and demonstrate a practical alternative for powering up a TAM.  
 
 # J16 - Power Connectivity
-<a href="/images/TAM_UMBILICAL_J16_POWER.png"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/Stephen-Arsenault/TAM-Umbilical/main/images/TAM_UMBILICAL_J16_POWER.png" style="margin-right: 1em"></a>
+<a href="https://github.com/Stephen-Arsenault/TAM-Umbilical/blob/main/images/TAM_UMBILICAL_J16_POWER.png?raw=true"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/Stephen-Arsenault/TAM-Umbilical/main/images/TAM_UMBILICAL_J16_POWER.png" style="margin-right: 1em"></a>
 J16 is the main attraction — and thankfully it's really not a hard act to follow. While the [technical specifications available from Apple](https://support.apple.com/kb/sp408?locale=en_US) are somewhat lacking, the table below clearly shows a standard 12V/5V 100 watt power supply (e.g., Pico PSU) will provide sufficient power.
 
 It's important to note that the original bass unit is rated for 1000 watts. While it's not clear what the additional wattage is used for it should be established that some accessories may not work as intended without sufficient power.  
@@ -23,7 +23,7 @@ It's important to note that the original bass unit is rated for 1000 watts. Whil
 _* The negative connector of C4 is -12V_
 
 # J2 - Data & Audio Connectivity
-<a href="/images/TAM_UMBILICAL_J2_DATA.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Stephen-Arsenault/TAM-Umbilical/main/images/TAM_UMBILICAL_J2_DATA.png" style="margin-right: 1em"></a>
+<a href="https://github.com/Stephen-Arsenault/TAM-Umbilical/blob/main/images/TAM_UMBILICAL_J2_DATA.png?raw=true"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Stephen-Arsenault/TAM-Umbilical/main/images/TAM_UMBILICAL_J2_DATA.png" style="margin-right: 1em"></a>
 asasas
 
 | Pin Number  | Source | Connections |
