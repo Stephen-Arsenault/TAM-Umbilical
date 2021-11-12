@@ -88,6 +88,3 @@ The TAM's umbilical appears to use a male `Deutsch HDP26-24-23ST` style connecto
 All content in this repo are licensed under CC BY 4.0 ([License](LICENSE.md)) ([Creative Commons](https://creativecommons.org/licenses/by/4.0/)).
 
 ![Banner Image](images/cable.png)
-
-J16 Pin 4 ?????
-J16 Pin 5 ?????
