@@ -57,7 +57,7 @@ _LHS, "Left Hand Side". RHS, "Right Hand Side". SPKR, "Speaker". RTRN, "Return"_
 # Connector
 <a href="https://github.com/Stephen-Arsenault/TAM-Umbilical/blob/main/images/connector.png"><img align="left" width="150" height="150" src="https://github.com/Stephen-Arsenault/TAM-Umbilical/blob/main/images/connector_screenres.png?raw=true" style="margin-right: 1em; margin-bottom: 1em;"></a>
 The TAM's umbilical appears to use a male `Deutsch HDP26-24-23ST` style connector. This connector contains 23 pins and is grounded on the outter ring as well as with a braided sheath. Female versions of this connector are available, and at the time of writing this document I found examples as low as $20 USD.
-<br/><br/><br/>
+<br/><br/><br/><br/>
 | Pin | Connector | Label |
 | :-------------: | ------------- | ------------- |
 | 1  | J2 Pin 7 | AMP OE |
