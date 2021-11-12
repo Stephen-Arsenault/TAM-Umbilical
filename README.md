@@ -31,7 +31,7 @@ _* The negative connector of C4 is -12V_
 The second connector on the internal side of the TAM umbilical is dedicated to audio signals. This includes the input for the bass station and the amplified output.
 
 Without further testing, I am inclined to believe this connector can be disregarded if your goal is to provide power.
-<br/>
+<br/><br/><br/>
 
 | Pin | Source | Connections |
 | :-------------: | ------------- | ------------- |
